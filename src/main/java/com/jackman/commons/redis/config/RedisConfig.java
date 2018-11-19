@@ -15,6 +15,8 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 import java.io.Serializable;
 
 /**
+ *
+ * warn 需要application.properties文件中 设置fastJson白名单
  * @Author shusheng
  * @Date 18/11/7 上午10:20
  */
